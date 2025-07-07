@@ -13,6 +13,7 @@ id = "bilalsns"
 bio = "engineer, athlete"
 avatar = "img/avatar-1.webp"
 links = [
+    { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/bilol-bakhrillaev" },
     { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
     { name = "Email", icon = "email", url = "mailto:bilal@omizu.cc" },
 ]
