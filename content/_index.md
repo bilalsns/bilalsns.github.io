@@ -16,6 +16,7 @@ links = [
     { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/bilol-bakhrillaev" },
     { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
     { name = "Email", icon = "email", url = "mailto:bilal@omizu.cc" },
+    { name = "Strava", icon = "strava", url = "https://www.strava.com/athletes/144799956"}
 ]
 
 # Show a few recent posts in home page
