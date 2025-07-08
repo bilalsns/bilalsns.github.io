@@ -1,4 +1,4 @@
-base_url = "https://bilalsns.github.io/web"
+base_url = "https://bilalsea2.github.io/web"
 title = "~/home"
 description = "Bilal's page"
 default_language = "en"
@@ -38,8 +38,8 @@ sections = [
   { name = "work", path = "/work", is_external = false },
   { name = "posts", path = "/posts", is_external = false },
   # { name = "tags", path = "/tags", is_external = false },
-  # { name = "github", path = "https://github.com/bilalsns", is_external = true },
-  # { name = "about", path = "/about", is_external = false },
+  # { name = "github", path = "https://github.com/bilalsea2", is_external = true },
+  { name = "contacts", path = "/contacts", is_external = false },
 ]
 blog_section_path = "/posts"
 
@@ -54,4 +54,4 @@ not_found_recover_text = "« back to home »"
 
 reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
-reaction_endpoint = "https://bilalsns.github.io/web/api/reaction"
+reaction_endpoint = "https://bilalsea2.github.io/web/api/reaction"

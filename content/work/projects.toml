@@ -1,7 +1,7 @@
 [[collection]]
 type = "card"
 title = "ml-repertoire"
-link = "https://github.com/bilalsns/ml-repertoire"
+link = "https://github.com/bilalsea2/ml-repertoire"
 content = "This repertoire of mine keeps the main concepts I've familiarized myself with in the field of AI"
 tags = ["NN", "XAI", "ML"]
 
