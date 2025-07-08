@@ -23,7 +23,6 @@ reaction = false
 
 *business*: bilal@omizu.cc
 
----
 
 **linkedin**
 
