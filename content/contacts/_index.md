@@ -20,8 +20,10 @@ reaction = false
 **emails**
 
 *social*: bilolbakhrillaev@gmail.com
+
 *business*: bilal@omizu.cc
 
+---
 
 **linkedin**
 
