@@ -13,10 +13,9 @@ id = "bilalsns"
 bio = "engineer, athlete"
 avatar = "img/avatar-1.webp"
 links = [
-    { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/bilalsea" },
-    { name = "GitHub", icon = "github", url = "https://github.com/bilalsea" },
-    { name = "Email", icon = "email", url = "mailto:bilal@omizu.cc" },
-    { name = "Strava", icon = "strava", url = "https://www.strava.com/athletes/bilalsea" },
+    { name = "LinkedIn", icon = "linkedin", url = "https://linkedin.com/in/bilalsns" },
+    { name = "GitHub", icon = "github", url = "https://github.com/bilalsns" },
+    { name = "Strava", icon = "strava", url = "https://www.strava.com/athletes/bilalsns" },
 ]
 
 # Show a few recent posts in home page
