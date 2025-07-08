@@ -17,13 +17,12 @@ comment = false
 reaction = false
 +++
 
-emails
+**emails**
 
-social: bilolbakhrillaev@gmail.com
+*social*: bilolbakhrillaev@gmail.com
+*business*: bilal@omizu.cc
 
-business: bilal@omizu.cc
 
-
-linkedin
+**linkedin**
 
 linkedin.com/in/bilalsea
