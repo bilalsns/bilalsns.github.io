@@ -8,7 +8,7 @@ lang = 'en'
 footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
-name = "Bilol Bakhrillaev"
+name = "BILAL S. B. (Bilol Bakhrillaev)"
 id = "bilalsea"
 bio = "engineer, athlete"
 avatar = "img/avatar-1.webp"
