@@ -24,19 +24,3 @@ recent_max = 15
 recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
-<script>
-    let options = {
-        timeZone: 'Asia/Tashkent',
-        hour: 'numeric',
-        minute: 'numeric',
-        second: 'numeric',
-    },
-    formatter = new Intl.DateTimeFormat([], options);
-    setInterval(
-        () => {
-            document.querySelector("#time").innerText = formatter.format(new Date());
-        }
-    , 1000)
-</script>
-<br>
-<a href="https://24timezones.com/Tashkent/time" style="text-decoration: none">TIME IN TASHKENT CITY</a> - <span id="time" style="text-decoration: none">0:00:00 AM</span><a href="https://24timezones.com/time-zone/utc+05"> UTC+5</a>
