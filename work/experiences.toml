@@ -1,0 +1,31 @@
+[[collection]]
+type = "card"
+icon = "/icon/sarmovc.svg"
+title = "Sarmo Labs"
+subtitle = "AI Intern"
+date = "2024-2025"
+content = """\
+• Traffic Law AI Assistant: Applied GraphRAG to build a model that answers questions regarding traffic laws in
+Uzbekistan; built & analyzed project graphs using Neo4j; tested DeepSeek-V2, ChatGPT-4o-mini and Llama 3
+models for efficiency; compared traditional RAG with GraphRAG 
+\n
+• Legal Letter AI-agent: Implemented RAG to customize formal law documents from court cases; built an agent to
+personalize and autofill legal letters using input data; tested OCR and OCR-free models to efficiently extract data
+from PDF documents 
+\n
+• Scholarhub.uz: Prepared and enhanced voice data of known IELTS & SAT instructors for voice cloning; contributed
+to collection of common data sets of universities for AI-agent that helps with college preparation
+"""
+
+[[collection]]
+type = "card"
+icon = "/icon/up2mates.svg"
+title = "Xalqa (ex-Up2mates)"
+subtitle = "Co-founder"
+date = "2024-2025"
+content = """\
+Designed an algorithm that matches users based on their interests through semantic search embeddings;
+customized the project for public use with comfortable Telegram UI using aiogram; implemented reliable security
+& privacy methods; built a custom “currency” to smoothen user experience; added “Uzbek” & “Russian” options
+and made the working model multi-lingual, removing the potential language barrier among users
+"""
