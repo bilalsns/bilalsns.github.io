@@ -39,23 +39,6 @@
       if (hl) hl.href = '{{ get_url(path="hl-dark.css") }}';
     }
   </script>
-  <script>
-    let options = {
-        timeZone: 'Asia/Tashkent',
-        hour: 'numeric',
-        minute: 'numeric',
-        second: 'numeric',
-    },
-    formatter = new Intl.DateTimeFormat([], options);
-    setInterval(
-        () => {
-            document.querySelector("#time").innerText = formatter.format(new Date());
-        }
-    , 1000)
-  </script>
-  <br>
-  <a href="https://24timezones.com/Tashkent/time">TIME IN TASHKENT CITY</a> - <span id="time"></span><a href="https://24timezones.com/time-zone/utc+05">UTC+5</a>
-  
   {% endif %}
   {% block content %}{% endblock content %}
   {% block script %}{% endblock script %}
